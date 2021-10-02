@@ -6,3 +6,5 @@ void main()
     scanf("%d",&num);
     printf("cube of %d=%d",num,num*num*num);
 }
+
+// Good Work launde
